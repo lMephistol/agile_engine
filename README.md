@@ -19,4 +19,4 @@ mvn spring-boot:run
 
 ## React UI 
 
-To launch the UI please read the README
+To launch the UI please read the [README](https://github.com/lMephistol/agile_engine/tree/master/react-ui)
